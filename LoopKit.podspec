@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LoopKit'
-  s.version          = '0.1.0'
+  s.version          = '3.0.1'
   s.summary          = 'LoopKit pod.'
 
   s.description      = <<-DESC
